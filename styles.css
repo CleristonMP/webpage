@@ -1,0 +1,30 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #eeff0059;
+  height: 30px;
+  padding: 5px;
+  display: flex;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0;
+  width: 100%;
+}
+
+li {
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+}
+
+.main-ctr {
+  padding: 10px;
+}
