@@ -25,6 +25,27 @@ li {
   letter-spacing: 0.1rem;
 }
 
-.main-ctr {
+main {
+  padding: 10px;
+  text-align: center;
+}
+
+h1 {
+  text-align: start;
+}
+
+img {
+  box-shadow: 5px 10px 8px #888888;
+}
+
+form {
+  text-align: left;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+footer {
   padding: 10px;
 }
